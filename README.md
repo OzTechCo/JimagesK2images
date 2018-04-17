@@ -11,3 +11,5 @@ Adjust as necessary if the script times out due to too many articles. Perhaps on
 if(!file_exists($newimg)) {
   //the copy and image crunching
 }
+
+* Current versions: Joomla! 3.8.6 + K2 2.8.0
